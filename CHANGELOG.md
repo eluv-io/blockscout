@@ -1,6 +1,7 @@
 ## Current
 
 ### Features
+- [#4452](https://github.com/blockscout/blockscout/pull/4452) - Add names for smart-conrtact's function response
 
 ### Fixes
 - [#4453](https://github.com/blockscout/blockscout/pull/4453) - Unescape characters for string output type in the contract response
